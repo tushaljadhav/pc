@@ -1,0 +1,8 @@
+user_id,name,age,email,signup_date
+1,Alice,25,alice@email.com,2022-01-10
+2,Bob,30,bob@email.com,2022-01-11
+3,Charlie,,charlie@email.com,2022-01-12
+4,David,twenty-eight,david@email.com,2022-01-13
+5,Alice,25,alice@email.com,2022-01-10
+6,Eve,35,eve@email.com,2022-01-14
+7,Frank,40,frank@email.com,not_a_date

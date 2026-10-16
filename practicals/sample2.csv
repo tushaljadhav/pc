@@ -1,0 +1,8 @@
+source,target,weight
+RouterA,RouterB,10
+RouterA,RouterC,5
+RouterB,RouterD,8
+RouterC,RouterD,3
+RouterC,RouterE,7
+RouterD,RouterF,6
+RouterE,RouterF,4

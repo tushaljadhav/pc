@@ -1,0 +1,32 @@
+{
+  "0": {
+    "Country": "Afghanistan",
+    "ISO-2-CODE": "AF",
+    "ISO-3-Code": "AFG",
+    "ISO-M49": 4
+  },
+  "1": {
+    "Country": "Aland Islands",
+    "ISO-2-CODE": "AX",
+    "ISO-3-Code": "ALA",
+    "ISO-M49": 248
+  },
+  "2": {
+    "Country": "Albania",
+    "ISO-2-CODE": "AL",
+    "ISO-3-Code": "ALB",
+    "ISO-M49": 8
+  },
+  "3": {
+    "Country": "Algeria",
+    "ISO-2-CODE": "DZ",
+    "ISO-3-Code": "DZA",
+    "ISO-M49": 12
+  },
+  "4": {
+    "Country": "American Samoa",
+    "ISO-2-CODE": "AS",
+    "ISO-3-Code": "ASM",
+    "ISO-M49": 16
+  }
+}

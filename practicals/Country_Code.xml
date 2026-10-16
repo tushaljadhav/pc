@@ -1,0 +1,20 @@
+<root>
+  <entry>
+    <Country>American Samoa</Country>
+    <ISO-2-CODE>AS</ISO-2-CODE>
+    <ISO-3-Code>ASM</ISO-3-Code>
+    <ISO-M49>16</ISO-M49>
+  </entry>
+  <entry>
+    <Country>Algeria</Country>
+    <ISO-2-CODE>DZ</ISO-2-CODE>
+    <ISO-3-Code>DZA</ISO-3-Code>
+    <ISO-M49>12</ISO-M49>
+  </entry>
+  <entry>
+    <Country>Albania</Country>
+    <ISO-2-CODE>AL</ISO-2-CODE>
+    <ISO-3-Code>ALB</ISO-3-Code>
+    <ISO-M49>8</ISO-M49>
+  </entry>
+</root>
